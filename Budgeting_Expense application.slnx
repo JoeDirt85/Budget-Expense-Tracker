@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BudgetExpenseCore/BudgetExpenseCore.vcxproj" Id="68e86d23-8db9-46de-9134-c4fe0e84f6f4" />
+  <Project Path="Budgeting_Expense_Application_Tests/Budgeting_Expense_Application_Tests.vcxproj" Id="5b12e94c-a325-7800-a600-1f4b8dd0c51d" />
+  <Project Path="Budgeting_Expense application/Budgeting_Expense application.vcxproj" Id="9f51394d-7073-4761-af29-0a0b23cb3d1d" />
+</Solution>
